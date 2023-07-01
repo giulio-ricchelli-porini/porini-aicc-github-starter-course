@@ -61,7 +61,7 @@ The GitHub community is vast. There are many types of people who use GitHub in t
     * Clone this repo in the "GitClass" folder: ```git clone theRepoUrl```; you should then have the project folder named "github-starter-course-porini-aicc" in the "GitClass" folder
     * Go into the project folder: ```cd %yourProjectFolder%```
 * Fix and push the updated code:
-    * This repo implements a function that calculates the prime numbers in a closed interval by accepting in input the min and the max of the closed interval; for example, given the inputs min=3 and max=7, the function must return [3;5;7]
+    * This repo implements a function that calculates the prime numbers in a closed interval by accepting in input the min and the max of the closed interval; for example, given the inputs min=3 and max=7, the function should return [3, 5, 7]
     * In the "main" branch, fix the code to remove the errors from the "main.py" file, and check that it works as expected through the "test.py" file
     * By using the integrated "Source Control" tab in VSCode, write a commit message and commit your changes
     * Push your changes to the "main" branch through the same tab
