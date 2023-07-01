@@ -66,6 +66,8 @@ The GitHub community is vast. There are many types of people who use GitHub in t
     * By using the integrated "Source Control" tab in VSCode, write a commit message and commit your changes
     * Push your changes to the "main" branch through the same tab
 
+You completed the assignment! Please notify us when you have done!
+
 ## Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
