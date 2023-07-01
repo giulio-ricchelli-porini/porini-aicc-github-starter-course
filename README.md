@@ -54,12 +54,12 @@ The GitHub community is vast. There are many types of people who use GitHub in t
         * <a href="https://code.visualstudio.com/download">VSCode</a>
         * <a href="https://code.visualstudio.com/docs/python/python-tutorial">Python</a>
         * <a href="https://code.visualstudio.com/docs/sourcecontrol/intro-to-git">Git</a>
-    * In VSCode, open a command prompt window and go in the VSCode installation folder (ex. ```cd C:\Users\yourUsername\Visual Studio Code```)
+    * In VSCode, open a command prompt window and go in the VSCode installation folder (ex. ```cd C:\Users\$yourUsername\Visual Studio Code```)
     * In the command prompt window, create a folder named "GitClass" in the VSCode installation folder: ```mkdir GitClass```
     * Go into the new folder: ```cd GitClass```
     * From the browser, from the repository page, from the "Code" button get the url of the repo under "Https"
     * Clone this repo in the "GitClass" folder: ```git clone theRepoUrl```; you should then have the project folder named "github-starter-course-porini-aicc" in the "GitClass" folder
-    * Go into the project folder: ```cd yourProjectFolder```
+    * Go into the project folder: ```cd $yourProjectFolder```
 * Fix and push the updated code:
     * This repo implements a function that calculates the prime numbers in a closed interval by accepting in input the min and the max of the closed interval; for example, given the inputs min=3 and max=7, the function must return [3;5;7]
     * In the "main" branch, fix the code to remove the errors from the "main.py" file, and check that it works as expected through the "test.py" file
