@@ -58,7 +58,7 @@ The GitHub community is vast. There are many types of people who use GitHub in t
     * In the command prompt window, create a folder named "GitClass" in the VSCode installation folder: ```mkdir GitClass```
     * Go into the new folder: ```cd GitClass```
     * From the browser, from the repository page, from the "Code" button get the url of the repo under "Https"
-    * Clone this repo in the "GitClass" folder: ```git clone theRepoUrl```; you should then have the project folder named "github-starter-course-porini-aicc" in the "GitClass" folder
+    * Clone this repo in the "GitClass" folder: ```git clone theRepoUrl```; you should then have a new project folder in the "GitClass" folder dedicated to this project
     * Go into the project folder: ```cd %yourProjectFolder%```
 * Fix and push the updated code:
     * This repo implements a function that calculates the prime numbers in a closed interval by accepting in input the min and the max of the closed interval; for example, given the inputs min=3 and max=7, the function should return [3, 5, 7]
