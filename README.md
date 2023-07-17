@@ -64,7 +64,7 @@ The GitHub community is vast. There are many types of people who use GitHub in t
     * This repo implements a function that calculates the prime numbers in a closed interval by accepting in input the min and the max of the closed interval; for example, given the inputs min=3 and max=7, the function should return [3, 5, 7]
     * In the "main" branch, fix the code to remove the errors from the "main.py" file, and check that it works as expected through the "test.py" file
     * By using the integrated "Source Control" tab in VSCode, write a commit message and commit your changes
-    * Push your changes to the "main" branch through the same tab
+    * Push your changes to the "main" branch through the same tab (through the "Sync Changes" button)
 
 You completed the assignment! Please notify us when you have done!
 
