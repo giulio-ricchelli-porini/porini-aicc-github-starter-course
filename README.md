@@ -65,6 +65,7 @@ The GitHub community is vast. There are many types of people who use GitHub in t
     * In the "main" branch, fix the code to remove the errors from the "main.py" file, and check that it works as expected through the "test.py" file
     * By using the integrated "Source Control" tab in VSCode, write a commit message and commit your changes
     * Push your changes to the "main" branch through the same tab (through the "Sync Changes" button)
+    * From the browser, open the repository and check that your changes are now registered on the remote repository: you made your commits available to your (hypothetical) collaborators!
 
 You completed the assignment! Please notify us when you have done!
 
